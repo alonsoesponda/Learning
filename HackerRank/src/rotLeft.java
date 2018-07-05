@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class Solution {
+public class rotLeft {
 
     //a = array of integers
     //n = integer size of a
